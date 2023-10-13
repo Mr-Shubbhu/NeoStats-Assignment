@@ -1,0 +1,16 @@
+Questions :
+
+1.Create views Gross Payouts using Segment, Month Year, Country , Sales Channel , Digital , Gov Non Gov as filters
+2.Main Overall KPIs 
+a. Total Sales, 
+b. Total Gross Payouts , 
+c.Total Settlements 
+d. Number of total Account Numbers,
+e.Average Loan Term
+f.Proportion of Account Nos in Digital channel
+g.Proportion of Account Nos in Gov flag
+
+3. a.Mix of Gov/Non Gov : both # and Gross Payouts amount
+  b.Mix of Digital /Non Digital : both # and Gross Payouts amount
+
+4.Daily Trends of Average Gross Payouts  and Total Gross Payouts
